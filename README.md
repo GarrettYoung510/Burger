@@ -1,36 +1,35 @@
-# Eat Da Burger!
-A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize
+# Burger
 
-## Description
+## Summary
 
-This application demonstrates a simple full stack application with a front end implemented with HTML/CSS and elements from the Materialize framework and the backend implemented with Node.js and Express. HTML templating is done with the help of Handlebars.
+Friend-Finder a mix of the frontend (Bootstrap/Chosen) and backend(Node & Express). Answer the survey to be paired up with a celebrity, you will also be added as an option!
 
-The user may enter any burger name to add it to the menu. This also adds the new burger entry into the MySQL database. The initial burger entry is added as *available* on the menu and placed on the left side of the screen. The user may then eat any burger by clicking on it, which moves it into the adjacent column and updates its status accordingly in the database.
+## Images
 
-## Demo
+Homepage of Celebrity Friend Finder
 
-The demo of the burger eating application can be found [here](https://secret-lake-55615.herokuapp.com/).
+![Homepage of Friend Finder](https://i.lensdump.com/i/WUK3T3.png)
 
-## Installation
+Survey to fill out 
 
-To run the application locally, first clone this repository with the following command.
+![Survey](https://i.lensdump.com/i/WUK4O0.png)
 
-	git clone git@github.com:angrbrd/eat-da-burger.git
-	
-Next, install the application dependencies.
+## Getting Started
 
-	cd eat-da-burger
-	npm install
-	
-Finally, run the node server locally.
+Fork/clone this repo 
+Run npm install for the node_modules.
+Run with node.js/nodemon.
+Open in localhost.
 
-	node server
-	
-Now, open the local application on port 3000 at the URL: `http://localhost:3000/`.
+### Prerequisites
 
-**Enjoy and have a burger!**
+Your favorite text editors & node.js installed
 
+* [Node.js](https://nodejs.org/en/) - Node.js to run logic
+* [Visual Studio](https://visualstudio.microsoft.com/) - The text editor used
+* [Heroku](https://heroku.com/) - To host server
 
+## Authors
 
-
+* Garrett Young
 
