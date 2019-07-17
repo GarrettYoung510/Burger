@@ -11,7 +11,9 @@ Homepage of Burger App
 ![Homepage of Burger App](https://i.lensdump.com/i/WcPnek.png)
 
 ## Getting Started
+Click the Heroku link in the description, add and devour burgers!
 
+To Run Locally:
 Fork/clone this repo 
 Run npm install for the node_modules.
 Run with node.js/nodemon.
